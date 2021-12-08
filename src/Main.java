@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        String[][] arr = new String[][]{{"5", "2", "5", "5"}, {"2", "2", "2", "6"}, {"1", "2", "2", "2"}, {"2", "2", "2", "2"}};
+        String[][] arr = new String[][]{{"5", "2", "5", "7"}, {"2", "2", "2", "6"}, {"1", "2", "2", "2"}, {"2", "2", "2", "2"}};
         try {
             try {
                 int result = arraySum(arr);
